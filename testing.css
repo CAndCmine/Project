@@ -1,3 +1,8 @@
-.test {
-  color: red;
+body {
+  font-size: 0.5rem;
+  font-family: serif;
+}
+
+.title {
+  font-size: 2rem; 
 }
